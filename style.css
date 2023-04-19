@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(32,33,36);
+}
+.logofoto{
+    margin-left: 44%;
+    margin-top: 15%;
+    border-radius: 50%;
+}
+.p-you{
+    color: #fff;
+    margin-top: 210px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: 1200;
+    font-style: normal;
+}
+.time{
+    width: 300px;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    line-height: 1.5rem;
+    font-size: 1rem;
+    letter-spacing: .00625em;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.div-micro{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 49%;
+    margin-top: -55px;
+    background-color: red;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.div-micro-2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 49%;
+    margin-top: -55px;
+    background-color: red;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.micro{
+    
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+}

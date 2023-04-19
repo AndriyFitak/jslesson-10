@@ -1,0 +1,5 @@
+<ul>
+		<li>Перша нотатка <span class="time"></span></li>
+		<li>Друга нотатка <span class="time"></span></li>
+		<li>Третя нотатка <span class="time"></span></li>
+	</ul>
